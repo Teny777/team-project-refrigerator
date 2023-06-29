@@ -1,2 +1,2 @@
-## Team-project-refrigerator
-Team-project-refrigerator created by GitHub Classroom
+## Приложение для отслеживания срока годности продуктов
+Выполнялось в рамках курса "Методы коллективной разработки" в ВУЗе
